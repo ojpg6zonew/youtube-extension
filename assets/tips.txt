@@ -5,3 +5,4 @@ Update tracking board
 Write summary report
 Summarize FX updates
 Draft upsell campaign
+Update status of tasks
