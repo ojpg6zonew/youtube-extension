@@ -1,16 +1,1 @@
-Review performance budgets
-Draft blog outline
-Track training sessions
-List discount schemes
-Write installation notes
-Record OKR sync
-Summarize giveaway notes
-Draft blog outline
-Check anomaly alerts
-Record event calendar
-Draft marketing blurb
-Check benchmark scores
-Check error handling
-Update test matrix
-Summarize PCI items
-Write installation notes
+Update tracking board
