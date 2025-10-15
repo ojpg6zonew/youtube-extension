@@ -3,3 +3,4 @@ Note recall issues
 Update poll results
 Log daily progress
 Draft style samples
+Define success criteria
