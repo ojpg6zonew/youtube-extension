@@ -3,3 +3,4 @@ Update role matrix
 List booth designs
 Draft sales strategy
 Update confusion matrix
+Draft accessibility review
