@@ -1,3 +1,4 @@
 Draft NDA template
 Note recall issues
 Update poll results
+Log daily progress
