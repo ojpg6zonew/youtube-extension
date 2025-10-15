@@ -3,3 +3,4 @@ Draft blog outline
 Draft mitigation guide
 Note training needs
 Draft integration plan
+Record acceptance tests
