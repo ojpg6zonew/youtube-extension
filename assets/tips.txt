@@ -7,3 +7,4 @@ Summarize FX updates
 Draft upsell campaign
 Update status of tasks
 Draft UX improvements
+Track library updates
