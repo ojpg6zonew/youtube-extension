@@ -3,3 +3,4 @@ Record competitor scans
 Review caching strategy
 Update logging sinks
 Draft liquidity plan
+Define success criteria
