@@ -4,3 +4,4 @@ Track training sessions
 List discount schemes
 Write installation notes
 Record OKR sync
+Summarize giveaway notes
