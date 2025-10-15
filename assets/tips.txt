@@ -4,3 +4,4 @@ Draft sponsorship deals
 Plan data migration
 Summarize funnel metrics
 Note threshold breaches
+Draft exploration notes
