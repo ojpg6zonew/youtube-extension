@@ -5,3 +5,4 @@ Log daily progress
 Draft style samples
 Define success criteria
 Note training needs
+Update skill matrix
