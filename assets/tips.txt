@@ -13,3 +13,4 @@ Start new iteration of the project
 Plan rollback procedure
 Update annotation tool
 Update hash list
+Record benchmark outcomes
