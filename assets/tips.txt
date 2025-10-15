@@ -11,3 +11,4 @@ Update infra diagram
 Check export rules
 Start new iteration of the project
 Plan rollback procedure
+Update annotation tool
