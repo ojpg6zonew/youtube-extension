@@ -11,3 +11,4 @@ Record event calendar
 Draft marketing blurb
 Check benchmark scores
 Check error handling
+Update test matrix
