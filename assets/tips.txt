@@ -2,3 +2,4 @@ Expand integration tests
 Draft blog outline
 Draft mitigation guide
 Note training needs
+Draft integration plan
