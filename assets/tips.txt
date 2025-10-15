@@ -1,17 +1,1 @@
-Check customs docs
-Record competitor scans
-Review caching strategy
-Update logging sinks
-Draft liquidity plan
-Define success criteria
-Review revenue data
-Draft HIPAA notes
-List known limitations
-Update infra diagram
-Check export rules
-Start new iteration of the project
-Plan rollback procedure
-Update annotation tool
-Update hash list
-Record benchmark outcomes
-Draft root cause notes
+Review pod limits
