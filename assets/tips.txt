@@ -1,2 +1,3 @@
 Check customs docs
 Record competitor scans
+Review caching strategy
