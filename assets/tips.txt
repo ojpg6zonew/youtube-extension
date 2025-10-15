@@ -7,3 +7,4 @@ Record OKR sync
 Summarize giveaway notes
 Draft blog outline
 Check anomaly alerts
+Record event calendar
