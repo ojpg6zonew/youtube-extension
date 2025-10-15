@@ -7,3 +7,4 @@ Define success criteria
 Review revenue data
 Draft HIPAA notes
 List known limitations
+Update infra diagram
