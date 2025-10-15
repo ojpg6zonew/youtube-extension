@@ -6,3 +6,4 @@ Record automation scripts
 Record steering notes
 Draft quarterly report
 Summarize contingency plan
+Draft resilience test
