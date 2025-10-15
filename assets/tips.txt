@@ -5,3 +5,4 @@ Draft sales strategy
 Update confusion matrix
 Draft accessibility review
 Summarize opt-out stats
+Evaluate automation options
