@@ -1,9 +1,1 @@
-List pending approvals
-Document hotfix steps
-Update P&L sheet
-Update migration scripts
-Record automation scripts
-Record steering notes
-Draft quarterly report
-Summarize contingency plan
-Draft resilience test
+Summarize deployment tests
