@@ -2,3 +2,4 @@ Review performance budgets
 Draft blog outline
 Track training sessions
 List discount schemes
+Write installation notes
