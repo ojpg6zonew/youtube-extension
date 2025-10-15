@@ -13,3 +13,4 @@ Check benchmark scores
 Check error handling
 Update test matrix
 Summarize PCI items
+Write installation notes
