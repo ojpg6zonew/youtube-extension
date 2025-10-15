@@ -1,5 +1,1 @@
-Update status of tasks
-Prepare hiring plan
-Note compliance reminders
-List pending approvals
-Draft celebration notes
+Review architecture decisions
