@@ -10,3 +10,4 @@ Check anomaly alerts
 Record event calendar
 Draft marketing blurb
 Check benchmark scores
+Check error handling
