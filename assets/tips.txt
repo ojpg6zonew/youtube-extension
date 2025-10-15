@@ -3,3 +3,4 @@ Update brand colors
 Summarize uptime data
 Update tracking board
 Write summary report
+Summarize FX updates
