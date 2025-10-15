@@ -8,3 +8,4 @@ Summarize opt-out stats
 Evaluate automation options
 Record survey highlights
 Draft sales strategy
+Update session rules
