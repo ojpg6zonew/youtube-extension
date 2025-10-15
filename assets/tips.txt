@@ -5,3 +5,4 @@ List discount schemes
 Write installation notes
 Record OKR sync
 Summarize giveaway notes
+Draft blog outline
