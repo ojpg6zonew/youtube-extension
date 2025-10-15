@@ -6,3 +6,4 @@ Write summary report
 Summarize FX updates
 Draft upsell campaign
 Update status of tasks
+Draft UX improvements
