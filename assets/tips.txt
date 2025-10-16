@@ -1,14 +1,1 @@
-Log daily progress
-Draft error codes
-Review billing items
-Review WAF settings
-Capture UI feedback
-Summarize candidate profiles
-Record competitor scans
-Track training sessions
-Capture open questions
-List rotation schedule
-Summarize key takeaways
-Update status of tasks
-Summarize quota usage
-Record OKR sync
+List banking contacts
