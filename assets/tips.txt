@@ -1,1 +1,2 @@
 Refine acceptance criteria
+Note deprecated functions
