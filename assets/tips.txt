@@ -3,3 +3,4 @@ Plan lead generation
 Record downtime reports
 Draft support script
 Summarize compliance checks
+Draft onboarding checklist
