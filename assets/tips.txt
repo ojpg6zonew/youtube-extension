@@ -1,2 +1,3 @@
 List banking contacts
 Update hash list
+Draft blog outline
