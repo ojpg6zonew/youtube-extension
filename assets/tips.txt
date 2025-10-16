@@ -1,3 +1,4 @@
 Log daily progress
 Draft error codes
 Review billing items
+Review WAF settings
