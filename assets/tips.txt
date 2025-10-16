@@ -3,3 +3,4 @@ Update alerting rules
 Summarize deployment tests
 Note deprecated functions
 Draft consent policy
+Draft partnership ideas
