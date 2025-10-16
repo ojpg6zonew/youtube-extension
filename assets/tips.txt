@@ -7,3 +7,4 @@ Draft sponsorship deals
 Plan cashflow forecast
 Record competitor moves
 Record edge cases
+Update load balancer notes
