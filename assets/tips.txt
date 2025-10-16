@@ -1,3 +1,4 @@
 Plan rollback procedure
 Check ISO documents
 Investigate error patterns
+Note firewall configs
