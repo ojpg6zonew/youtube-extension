@@ -6,3 +6,4 @@ Note cluster issues
 Review MFA adoption
 Record blue-green notes
 Collect analytics snapshots
+Record feature votes
