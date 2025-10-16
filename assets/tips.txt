@@ -7,3 +7,4 @@ List missing translations
 Record import duties
 Note accessibility gaps
 Refine backlog items
+Summarize CI logs
