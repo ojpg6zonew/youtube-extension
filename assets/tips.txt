@@ -6,3 +6,4 @@ Summarize compliance checks
 Draft onboarding checklist
 Summarize dependency map
 Draft optimization notes
+Update compatibility notes
