@@ -1,1 +1,1 @@
-Review performance budgets
+Summarize deployment logs
