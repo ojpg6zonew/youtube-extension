@@ -1,5 +1,1 @@
-Update compatibility notes
-Summarize brand sentiment
-Schedule next sprint planning
-Draft compliance review
-Note accessibility gaps
+Record interview notes
