@@ -1,13 +1,1 @@
-Summarize deployment logs
-Draft onboarding steps
-Record event calendar
-Draft mitigation guide
-Note cluster issues
-Review MFA adoption
-Record blue-green notes
-Collect analytics snapshots
-Record feature votes
-Record survey highlights
-Record arbitration steps
-Log board decisions
-Summarize trade risks
+Record import duties
