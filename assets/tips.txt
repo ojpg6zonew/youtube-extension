@@ -1,1 +1,2 @@
 Update compatibility notes
+Summarize brand sentiment
