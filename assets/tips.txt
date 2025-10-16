@@ -4,3 +4,4 @@ Record automation scripts
 Write press release draft
 Summarize key takeaways
 Review logo sketches
+Note audit trail
