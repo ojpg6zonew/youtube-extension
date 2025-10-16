@@ -2,3 +2,4 @@ Update incident timeline
 Update plan for next release
 Note jurisdiction issues
 Summarize industry news
+Capture retention risks
