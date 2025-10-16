@@ -3,3 +3,4 @@ Update plan for next release
 Note jurisdiction issues
 Summarize industry news
 Capture retention risks
+List missing translations
