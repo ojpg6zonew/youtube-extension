@@ -15,3 +15,4 @@ Update portfolio deck
 Note registry updates
 Check anomaly alerts
 Review performance budgets
+Note training needs
