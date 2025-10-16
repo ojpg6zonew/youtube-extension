@@ -1,9 +1,1 @@
-Capture UI feedback
-Plan lead generation
-Record downtime reports
-Draft support script
-Summarize compliance checks
-Draft onboarding checklist
-Summarize dependency map
-Draft optimization notes
-Update compatibility notes
+Log daily progress
