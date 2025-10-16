@@ -3,3 +3,4 @@ Record DB query logs
 Plan lead generation
 Log mitigation steps
 Draft onboarding steps
+Record F1 score
