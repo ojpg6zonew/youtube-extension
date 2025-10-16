@@ -14,3 +14,4 @@ Update style guide
 Update portfolio deck
 Note registry updates
 Check anomaly alerts
+Review performance budgets
