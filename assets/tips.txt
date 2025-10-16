@@ -1,10 +1,1 @@
-Note GDPR tasks
-Update supply data
-Record retention schedule
-Draft experiment log
-Note configuration changes
-Summarize quota usage
-Draft ethics policy
-Draft policy updates
-Note winner list
-Summarize deployment logs
+Plan rollback procedure
