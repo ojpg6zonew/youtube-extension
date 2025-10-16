@@ -1,12 +1,1 @@
-Record import duties
-Update alerting rules
-Summarize deployment tests
-Note deprecated functions
-Draft consent policy
-Draft partnership ideas
-Record load test data
-Draft logistics plan
-Review caching strategy
-Summarize call notes
-Draft logistics plan
-Review performance budgets
+Capture UI feedback
