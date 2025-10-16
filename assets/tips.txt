@@ -9,3 +9,4 @@ Collect analytics snapshots
 Record feature votes
 Record survey highlights
 Record arbitration steps
+Log board decisions
