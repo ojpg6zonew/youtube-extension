@@ -5,3 +5,4 @@ Summarize industry news
 Capture retention risks
 List missing translations
 Record import duties
+Note accessibility gaps
