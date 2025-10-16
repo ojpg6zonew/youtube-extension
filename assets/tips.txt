@@ -4,3 +4,4 @@ Record event calendar
 Draft mitigation guide
 Note cluster issues
 Review MFA adoption
+Record blue-green notes
