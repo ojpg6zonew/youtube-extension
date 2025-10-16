@@ -6,3 +6,4 @@ Capture UI feedback
 Summarize candidate profiles
 Record competitor scans
 Track training sessions
+Capture open questions
