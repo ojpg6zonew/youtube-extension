@@ -6,3 +6,4 @@ Note configuration changes
 Summarize quota usage
 Draft ethics policy
 Draft policy updates
+Note winner list
