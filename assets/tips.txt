@@ -8,3 +8,4 @@ Plan PR campaign
 Note DNS changes
 Record retention schedule
 Update language packs
+Record budget estimates
