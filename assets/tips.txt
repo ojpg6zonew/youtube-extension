@@ -7,3 +7,4 @@ Summarize quota usage
 Draft ethics policy
 Draft policy updates
 Note winner list
+Summarize deployment logs
