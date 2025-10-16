@@ -25,3 +25,4 @@ Summarize velocity trend
 Note deprecated functions
 Record labeling guide
 Check monitoring alerts
+Update redundancy notes
