@@ -10,3 +10,4 @@ Record feature votes
 Record survey highlights
 Record arbitration steps
 Log board decisions
+Summarize trade risks
