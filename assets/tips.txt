@@ -12,3 +12,4 @@ Note delivery issues
 Start new iteration of the project
 Update style guide
 Update portfolio deck
+Note registry updates
