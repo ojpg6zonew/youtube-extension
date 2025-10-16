@@ -1,5 +1,1 @@
-Update incident timeline
-Draft resilience test
-Plan PR campaign
-Record infra costs
-Plan team retro
+Update pager duty notes
