@@ -1,3 +1,4 @@
 Note audit trail
 Draft training slides
 Schedule next sprint planning
+Simplify configuration
