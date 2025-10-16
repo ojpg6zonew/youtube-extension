@@ -8,3 +8,4 @@ Record competitor scans
 Track training sessions
 Capture open questions
 List rotation schedule
+Summarize key takeaways
