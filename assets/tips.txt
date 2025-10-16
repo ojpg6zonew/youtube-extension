@@ -6,3 +6,4 @@ Draft onboarding steps
 Record F1 score
 Plan PR campaign
 Note DNS changes
+Record retention schedule
