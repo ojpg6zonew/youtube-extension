@@ -1,5 +1,1 @@
-Refine acceptance criteria
-Note deprecated functions
-Summarize ML metrics
-Update ad creatives
-Update dropout rate
+Update incident timeline
