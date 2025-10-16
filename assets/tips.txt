@@ -3,3 +3,4 @@ Draft training slides
 Schedule next sprint planning
 Simplify configuration
 Draft compliance review
+List legal holds
