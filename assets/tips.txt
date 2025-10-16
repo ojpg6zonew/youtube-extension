@@ -10,3 +10,4 @@ Record retention schedule
 Update language packs
 Record budget estimates
 Prepare status email
+Capture monitoring gaps
