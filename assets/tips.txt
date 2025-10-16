@@ -6,3 +6,4 @@ Update recognition board
 Draft sponsorship deals
 Plan cashflow forecast
 Record competitor moves
+Record edge cases
