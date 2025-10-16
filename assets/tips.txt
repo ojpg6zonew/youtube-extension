@@ -3,3 +3,4 @@ Note investment options
 Log regression issues
 Check anomaly alerts
 Check export rules
+Record import duties
