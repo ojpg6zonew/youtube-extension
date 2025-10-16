@@ -6,3 +6,4 @@ Draft consent policy
 Draft partnership ideas
 Record load test data
 Draft logistics plan
+Review caching strategy
