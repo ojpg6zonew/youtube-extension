@@ -4,3 +4,4 @@ Schedule next sprint planning
 Simplify configuration
 Draft compliance review
 List legal holds
+Draft opportunity list
