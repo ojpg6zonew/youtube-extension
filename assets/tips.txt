@@ -3,3 +3,4 @@ Draft onboarding steps
 Record event calendar
 Draft mitigation guide
 Note cluster issues
+Review MFA adoption
