@@ -4,3 +4,4 @@ Summarize candidate profiles
 Update supply data
 Update recognition board
 Draft sponsorship deals
+Plan cashflow forecast
