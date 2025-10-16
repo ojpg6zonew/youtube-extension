@@ -27,3 +27,4 @@ Record labeling guide
 Check monitoring alerts
 Update redundancy notes
 Note configuration changes
+Draft testimonials list
