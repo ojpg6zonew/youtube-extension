@@ -9,3 +9,4 @@ Note training epochs
 Record survey highlights
 Draft registrar tasks
 Refactor helper functions
+Note overfit warning
